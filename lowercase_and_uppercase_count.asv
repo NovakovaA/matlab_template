@@ -1,5 +1,5 @@
 clc, clear;
-input_text = 'MECHATRONIKA je cool.';
+input_text = 'MECHATRONIKA je cooooooool.';
 
 function[lower_count, upper_count] = numbers(input_text)
 % Počet malých písmen
